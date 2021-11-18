@@ -1,10 +1,9 @@
 # PILGI Analog To Digital
 
-[Meeting Notes](PILGI%20Analog%20To%20Digital%207f824082bc6143b997998ba234efb592/Meeting%20Notes%2081d6fa0831a44aa5801dd6f04967f145.csv)
+📒[Meeting Notes](PILGI%20Analog%20To%20Digital%207f824082bc6143b997998ba234efb592/Meeting%20Notes%2081d6fa0831a44aa5801dd6f04967f145.csv)
+🧑‍💻[엔지니어 정보](PILGI%20Analog%20To%20Digital%207f824082bc6143b997998ba234efb592/%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20eef8f2fb4f24449ca24ba169a21128a2.csv)
 
-[엔지니어 정보](PILGI%20Analog%20To%20Digital%207f824082bc6143b997998ba234efb592/%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20eef8f2fb4f24449ca24ba169a21128a2.csv)
-
-📒[개발 노트 링크]() 
+📒[개발 노트 링크](https://encouraging-saltopus-3be.notion.site/PILGI-Analog-To-Digital-7f824082bc6143b997998ba234efb592) 
 
 🐈[github 링크](https://github.com/PILGI-Analog-To-Digital/Analog-PILGI-to-DIgital#analog-pilgi-to-digital) 
 
