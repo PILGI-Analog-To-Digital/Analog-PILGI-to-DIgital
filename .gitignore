@@ -1,2 +1,7 @@
 access_tocken.txt
 GAN/data
+GAN/outputs/
+/ch8_training_images_1/
+/ch8_training_localization_transcription_gt_v2/
+
+*.jpg
